@@ -1,5 +1,6 @@
 {
   "name": "controlaltdelete/wordpress-google-site-verification",
   "description": "Add the Google Site Verification tag to your WordPress site",
-  "type": "wordpress-plugin"
+  "type": "wordpress-plugin",
+  "license": "Beerware"
 }
